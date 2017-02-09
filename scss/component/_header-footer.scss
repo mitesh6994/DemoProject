@@ -1,0 +1,127 @@
+.main-header{
+	padding-top:24px;
+	padding-bottom:24px;	
+}
+.left-header{
+	float:left;
+}
+h1{
+	margin-top:10px;
+}
+.right-header{
+	float:right;
+}
+.header-nav{
+	li{
+	display:inline-block;
+	margin-top:30px;
+	}
+	a{
+	margin-left:26px;
+	}
+}
+.top-header{
+	background-color:black;
+	padding-top:12px;
+
+}
+.left-top-header{
+	float:left;
+	color:grey;
+	margin-top:7px;
+}
+.right-top-header{
+	float:right;
+}
+.top-nav{
+	li{
+	display:inline-block;
+	margin-left:12px;
+	}
+	a{
+	color:white;
+	}
+}
+.search-btn{
+	color:white;
+	background-color:#4d4e53;
+	border-color:#4d4e53;
+	width:152px;
+	padding:7px;
+}
+.glyphicon-search{
+	font-size:14px;	
+}
+.country-name{
+	background-color:black;
+	width:120px;
+	color:white;
+	font-weight:bold;
+	border:none;
+}
+.footer-links{
+	background-color: #eeeeee;
+	padding-top: 32px;
+	padding-bottom: 32px;
+	h4{
+	font-weight: bold;	
+	}
+}
+.footer-nav{	
+	padding-left: 0;
+	li{
+		margin-bottom: 12px;
+	}	
+	h4{
+
+	}
+}
+.social-icons{
+	margin-right: 10px;
+}
+.copyrights-section{
+	padding-top: 32px;
+	
+}
+.contact-links{
+	padding-left: 0;
+	li{
+		display: inline-block;
+		margin-right: 12px;
+	}
+	a{
+		color: black;
+	}
+}
+.form-btn{
+	margin-bottom: 0px;
+	width: 265px;
+	background-color: #106a8f;
+	color: white;
+	text-align: left;
+	padding: 12px;
+}
+.caret{
+	margin-top: 9px;
+}
+.dropdown-menu{
+	width: 265px;
+	height: 325px;
+	background-color: rgba(0,0,0,0.7);
+}
+.form-elements{
+	padding-left: 0;
+	padding: 12px;
+	color: white;
+	li{
+		margin-bottom: 15px;
+	}
+}
+.input-box{
+	width: 165px;
+}
+
+.submit-btn{
+	float: right;
+	margin-right: 12px;
+}
