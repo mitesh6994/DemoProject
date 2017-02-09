@@ -3,12 +3,13 @@
 	background-size:cover;	
 	min-height:600px;
 	color: white;
+	
+	
 }
 .banner{
 	h2{
 	font-size:40px;
-	line-height:60px;
-	margin-top:180px;
+	line-height:60px;	
 	}
 	h3{
 	font-size:16px;
@@ -17,9 +18,16 @@
 	margin-bottom:40px;
 	}
 }
+.banner-content{
+	display: flex;
+	min-height: 600px;
+	align-items: center;
+	background-color: rgba(0,0,0,0.5);
+}
 .banner-btn{	
 	color: white;
 	border-color: white;	
+	border:2px solid white;
 }
 .info-links{
 	margin-bottom:230px;
@@ -36,9 +44,7 @@
 	margin-bottom:36px;
 	}
 }
-.working{
-	padding:135px;
-}
+
 .working{
 	h6{
 	font-size:36px;
@@ -57,9 +63,10 @@
 	}
 }
 article{
-	background-image:url("../images/ai.jpg");
+	background-image:url("../images/article-img.jpg");
 	background-size:cover;
 	min-height:411px;
+	color: white;
 }
 article{
 	h2{
@@ -73,6 +80,10 @@ article{
 	margin-top:34px;
 	margin-bottom:40px;
 	}
+}
+.article-btn{
+	color: white;
+	border:2px solid white;
 }
 .cloud-air{
 	padding-top: 130px;
@@ -95,4 +106,13 @@ article{
 	color: #106a8f;
 	font-size: 26px;
 	line-height: 36px
+}
+.customer-love{
+	padding-top: 120px;
+	padding-bottom: 120px;
+	background-color: black;
+	color: white;
+}
+.cust-sec-btn{
+	border: 2px solid white;
 }
