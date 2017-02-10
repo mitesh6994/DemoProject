@@ -49,6 +49,18 @@ h1{
 	width:152px;
 	padding:7px;
 }
+.si{
+	font-size: 10px !important;
+}
+.srch-icon{
+	color:white;
+	background-color:#4d4e53;
+	border-color:#4d4e53;
+	width:24px;
+	padding:7px;
+	padding-bottom: 13px;
+	padding-top: 13px;
+}
 .glyphicon-search{
 	font-size:14px;	
 }
@@ -58,6 +70,7 @@ h1{
 	color:white;
 	font-weight:bold;
 	border:none;
+	cursor: pointer;
 }
 .footer-links{
 	background-color: #eeeeee;
@@ -120,7 +133,6 @@ h1{
 .input-box{
 	width: 165px;
 }
-
 .submit-btn{
 	float: right;
 	margin-right: 12px;
